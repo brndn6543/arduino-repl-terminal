@@ -1,6 +1,6 @@
 # Arduino Terminal Template
 This is a template for a REPL-style terminal on an Arduino board. The idea here
-is that this can be used as the starting point for building out terminal for
+is that this can be used as the starting point for building out terminals for
 issuing commands on an Arduino.
 
 The commands do not do much as this is meant as a staring point for building
