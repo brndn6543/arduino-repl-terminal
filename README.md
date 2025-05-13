@@ -6,7 +6,7 @@ issuing commands on an Arduino.
 The commands do not do much as this is meant as a staring point for building
 out more robust terminals.
 
-- **Available commands:**
+- **Available commands for testing:**
   - help - show this menu 
   - info - show board info 
   - led - led on/off *(mock-up)*
